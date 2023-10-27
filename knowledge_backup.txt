@@ -1,0 +1,5 @@
+Stripping : When there are small movement and if viewed from all sides there is no indication of a colission, teeth can slide, you dont need to open extra spaces
+Tooth Movements : When there are small movement and if viewed from all sides there is no indication of a colission, teeth can slide, you dont need to open extra spaces
+Last Refinement : When there are small movement and if viewed from all sides there is no indication of a colission, teeth can slide, you dont need to open extra spaces
+Collisions : When there are small movement and if viewed from all sides there is no indication of a colission, teeth can slide, you dont need to open extra spaces
+Refinements : When there are small movement and if viewed from all sides there is no indication of a colission, teeth can slide, you dont need to open extra spaces
